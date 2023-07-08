@@ -13,7 +13,7 @@ the results with the information that you are really looking for.
 
 Here is where TubeTrek comes alive; It recommends trending channels aligned with your keywords, and the result is tailored recommendations based on your interests.
 
-## Project structure:
+## Project structure
 
 - **Database**
   In this folder, you can find several .csv files, which I describe following:
@@ -36,7 +36,7 @@ Here is where TubeTrek comes alive; It recommends trending channels aligned with
 ## How does TubeTrek* work?
 The user provides an input when selecting keywords from a topic, which our recommendation is pick between 3 and 5 words. Using the YouTube v3 API, it tracks the most relevant channels and compares them with the database. It provides up to five options that closely match your search, offering tailored recommendations based on the user's interests.
 
-## Data analysis skills applied:
+## Data analysis skills applied
   - Apis management.
   - Creation of Dataframes with web scraping.
   - Natural language processing (NLP) cleaning techniques, such as Tokenization, Lemmatization and Stop Words.
