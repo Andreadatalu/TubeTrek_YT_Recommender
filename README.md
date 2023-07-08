@@ -42,6 +42,7 @@ The user provides an input when selected keywords from a topic which our recomme
   - Natural language processing (NLP) cleaning techniques.
   - Word similarity (Jaccard distance).
   - Dataset filtering.
+  - Streamlit - an open-source Python library for custom web apps for machine learning and data science.
     
 **To learn more, I encourage you to go on the following link to the project presentation:** https://bit.ly/TubeTrek_project_Andrea_Luna
 
