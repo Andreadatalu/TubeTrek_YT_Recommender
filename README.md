@@ -34,12 +34,12 @@ Here is where TubeTrek comes alive; It recommends trending channels aligned with
     - YT_recommender_1: An adaptation of the entire code that does not take into account using a database to make an interface for streamlit.
  
 ## How does TubeTrek* work?
-The user provides an input when selected keywords from a topic which our recommendation is pick between 3 and 5 words. Using the YouTube v3 API, it tracks the most relevant channels and compares them with the database. It provides up to five options that closely match your search, offering tailored recommendations based on the user's interests.
+The user provides an input when selecting keywords from a topic, which our recommendation is pick between 3 and 5 words. Using the YouTube v3 API, it tracks the most relevant channels and compares them with the database. It provides up to five options that closely match your search, offering tailored recommendations based on the user's interests.
 
 ## Data analysis skills applied:
   - Apis management.
   - Creation of Dataframes with web scraping.
-  - Natural language processing (NLP) cleaning techniques.
+  - Natural language processing (NLP) cleaning techniques, such as Tokenization, Lemmatization and Stop Words.
   - Word similarity (Jaccard distance).
   - Dataset filtering.
   - Streamlit - an open-source Python library for custom web apps for machine learning and data science.
