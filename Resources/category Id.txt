@@ -1,0 +1,34 @@
+CategoryId - Youtube
+
+Film & Animation (Cine y animación) - 1
+Autos & Vehicles (Autos y vehículos) - 2
+Music (Música) - 10
+Pets & Animals (Mascotas y animales) - 15
+Sports (Deportes) - 17
+Short Movies (Cortometrajes) - 18
+Travel & Events (Viajes y eventos) - 19
+Gaming (Videojuegos) - 20
+Videoblogging (Videoblogs) - 21
+People & Blogs (Gente y blogs) - 22
+Comedy (Comedia) - 23
+Entertainment (Entretenimiento) - 24
+News & Politics (Noticias y política) - 25
+Howto & Style (Cómo hacerlo y estilo) - 26
+Education (Educación) - 27
+Science & Technology (Ciencia y tecnología) - 28
+Nonprofits & Activism (Organizaciones sin fines de lucro y activismo) - 29
+Movies (Películas) - 30
+Anime/Animation (Anime/Animación) - 31
+Action/Adventure (Acción/Aventura) - 32
+Classics (Clásicos) - 33
+Comedy (Comedia) - 34
+Documentary (Documental) - 35
+Drama (Drama) - 36
+Family (Familia) - 37
+Foreign (Extranjero) - 38
+Horror (Terror) - 39
+Sci-Fi/Fantasy (Ciencia ficción/Fantasía) - 40
+Thriller (Suspense) - 41
+Shorts (Cortos) - 42
+Shows (Programas) - 43
+Trailers (Avances) - 44
